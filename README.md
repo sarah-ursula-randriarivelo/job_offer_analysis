@@ -53,7 +53,6 @@ This project is a comprehensive job offer analysis pipeline that processes job p
 The project requires the following Python packages:
 
 - pandas==3.0.0 (Data manipulation and analysis)
-- numpy==2.4.2 (Numerical computing)
 - matplotlib>=3.8.0 (Static plotting)
 - jupyter>=1.0.0 (Jupyter notebook environment)
 - ipykernel>=6.25.0 (Jupyter kernel)
